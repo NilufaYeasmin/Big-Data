@@ -1,6 +1,6 @@
 # Hello and Welcome to my Portfolio Folder!
 
-This repository contains documents MapReduce projects that I completed as part of my Master of Data Science and Analytics program at Ryerson University.
+This repository contains the documents of MapReduce projects that I completed as part of my Master of Data Science and Analytics program at Ryerson University.
 
 ### Mapreduce program count top 10 words in a large text corpus. 
      ** shakespeare_100.txt - The input data file to count the occurences of each word 
@@ -14,9 +14,8 @@ This repository contains documents MapReduce projects that I completed as part o
 
 • [root@sandbox lab]# hadoop fs –cat /user/root/shakespeare_streaming_out/part-00000 | tail -n 15
 
-## Movie name and rating greater than 3
+## Mapreduce program find movie name and rating greater than 3 from the input files
 
-Mapreduce program find the movie name and rating greater than 3 from the input fiels
 
         **   u.data- The dataset has 100000 ratings by 943 users on 1682 movies.
              The file has 4 tab  ("\t") separated columns.  
