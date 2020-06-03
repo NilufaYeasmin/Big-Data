@@ -1,7 +1,5 @@
 # Hello and Welcome to my Portfolio Folder!
 
-This repository contains the documents of MapReduce projects that I completed as part of my Master of Data Science and Analytics program at Ryerson University.
-
 ### Mapreduce program count top 10 words in a large text corpus. 
      ** shakespeare_100.txt - The input data file to count the occurences of each word 
 
